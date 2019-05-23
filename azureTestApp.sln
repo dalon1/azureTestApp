@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azureTestApp", "azureTestApp\azureTestApp.csproj", "{27EC39CE-265E-4DE5-902D-37C8B3E05EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azureUnitTestProject", "azureUnitTestProject\azureUnitTestProject.csproj", "{4DFDEA53-5F10-4AE5-821B-31E2706E9325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27EC39CE-265E-4DE5-902D-37C8B3E05EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EC39CE-265E-4DE5-902D-37C8B3E05EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EC39CE-265E-4DE5-902D-37C8B3E05EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27EC39CE-265E-4DE5-902D-37C8B3E05EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DFDEA53-5F10-4AE5-821B-31E2706E9325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFDEA53-5F10-4AE5-821B-31E2706E9325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFDEA53-5F10-4AE5-821B-31E2706E9325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFDEA53-5F10-4AE5-821B-31E2706E9325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55CBFF43-E324-4F00-B323-72F3028FE9C0}
+	EndGlobalSection
+EndGlobal
